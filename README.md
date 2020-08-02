@@ -1,4 +1,4 @@
-# BanSystem
+#BanSystem
 <hr>
 # Info
 <hr>
