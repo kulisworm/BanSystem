@@ -40,6 +40,6 @@ screen -S "server name without quotes"
 ```
 Complete the setup wizard  
 - screen mini tutorial  
-    - So that exit server screen press `lctrl+a then lctrl+d `the server will continue working
-    - So that back to server screen , type `screen -r "what you entered here"`
+    - So that exit server screen press __lctrl+a then lctrl+d__ the server will continue working
+    - So that back to server screen , type __screen -r "what you entered here"__
 > screen -S "server name without quotes"    
