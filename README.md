@@ -9,12 +9,12 @@ apt update
 apt upgrade
 ```
 Confirm installation by entering
-> y
+- y
 ```
 apt install screen
 ```
 Confirm installation be entering
-> y
+- y
 We will use the repository `PMMPLinuxInstaller` `by w4x51m` for an easy installation
 - w4x51m's materials that we will use
     - repository `PMMPLinuxInstaller`(github.com/w4x51m/PMMPLinuxInstaller)
