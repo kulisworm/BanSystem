@@ -13,8 +13,7 @@ Confirm installation by entering
 ```
 apt install screen
 ```
-Confirm installation be entering
-- y
+Confirm installation again
 We will use the repository `PMMPLinuxInstaller` `by w4x51m` for an easy installation
 - w4x51m's materials that we will use
     - repository `PMMPLinuxInstaller`(github.com/w4x51m/PMMPLinuxInstaller)
