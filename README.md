@@ -15,13 +15,18 @@ apt install screen
 ```
 Confirm installation again
 > y  
+_______
 We will use the repository `PMMPLinuxInstaller` `by w4x51m` for an easy installation  
 - w4x51m's materials that we will use  
-    - repository `PMMPLinuxInstaller`(github.com/w4x51m/PMMPLinuxInstaller)  
+    - repository [PMMPLinuxInstaller](github.com/w4x51m/PMMPLinuxInstaller)  
 Writing in console:  
-`git clone https://github.com/w4x51m/PMMPLinuxInstaller.git`  
+```
+git clone https://github.com/w4x51m/PMMPLinuxInstaller.git
+```
 After go to the install file directory  
-`cd PMMPLinuxInstaller`  
+```
+cd PMMPLinuxInstaller
+```  
 Give rights install file and start install process  
 ```
 chmod +x installer.sh
