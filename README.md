@@ -36,6 +36,7 @@ Wait...
 Write  
 ```
 screen -S "server name without quotes"
+screen -r "what you entered here"
 ./start.sh
 ```
 Complete the setup wizard  
@@ -43,3 +44,16 @@ Complete the setup wizard
     - So that exit server screen press __lctrl+a then lctrl+d__ the server will continue working
     - So that back to server screen , type __screen -r "what you entered here"__
 > screen -S "server name without quotes"    
+# Installing ban system
+go to __plugin__ directory and install __ban system__
+```
+cd plugins
+git clone https://github.com/kulisworm/BanSystem
+```
+Start/go to server screen
+> screen -r "what you entered here"
+And write
+```
+reload
+```
+After reloading , plugin installed , thanks!
