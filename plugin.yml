@@ -1,0 +1,32 @@
+name: PluginSystemBanMute
+main: kickmut\plugin
+api: 3.0.0
+version: 1.0.0
+commands:
+  tmute:
+    permission: tmute.use
+    description: Мут на время
+  mute:
+    permission: mute.use
+    description: Мут навсегда
+  unmute:
+    permission: unmute.use
+    description: Забрать мут у игрока
+  ban:
+    permission: ban.use
+    description: Забанить игрока
+  banip:
+    permission: banip.use
+    description: Забанить игрока по айпи
+  unban:
+    permission: unban.use
+    description: Разбанить игрока
+  unbanip:
+    permission: unbanip.use
+    description: Разбанить игрока по айпи
+  tban:
+    permission: tban.use
+    description: Забанить игрока на время
+  tbanip:
+    permission: tbanip.use
+    description: Забанить игрока на время по айпи
