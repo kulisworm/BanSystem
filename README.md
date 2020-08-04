@@ -44,11 +44,15 @@ Complete the setup wizard
     - So that exit server screen press __lctrl+a then lctrl+d__ the server will continue working
     - So that back to server screen , type __screen -r "what you entered here"__
 > screen -S "server name without quotes"    
-# Installing ban system
-go to __plugin__ directory and install __ban system__
+# 2.Installing ban system
+go to __plugin__ directory and install __Dev Tools__
 ```
 cd plugins
-git clone https://github.com/kulisworm/BanSystem
+wget https://poggit.pmmp.io/r/74395/PocketMine-DevTools.phar
+```
+And install __ban system__
+```
+git clone https://github.com/kulisworm/BanSystem.git
 ```
 Start/go to server screen
 > screen -r "what you entered here"
@@ -57,3 +61,5 @@ And write
 reload
 ```
 After reloading , plugin installed , thanks!
+donate <3: QIWI: +7(920)519-91 33
+[DonationAlerts](https://www.donationalerts.com/r/iliashestakov315)
